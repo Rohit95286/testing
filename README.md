@@ -1,2 +1,2 @@
 # testing
- thisis for testing purpose
+ this is for testing purpose
